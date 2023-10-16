@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple web application for managing your to-do lists. Features include adding, deleting, and marking items as completed. Built using React and Material-UI for a modern and user-friendly interface. [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
